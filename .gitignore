@@ -1,0 +1,15 @@
+# Java compiled output
+*.class
+out/
+build/
+target/
+
+# VS Code
+.vscode/*
+!.vscode/extensions.json
+
+# Local machine and temporary files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp

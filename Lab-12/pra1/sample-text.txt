@@ -1,0 +1,3 @@
+Java collections make data easier to organize.
+Collections can count words and organize data.
+Java collections are useful for bank account data.

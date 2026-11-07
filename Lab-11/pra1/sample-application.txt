@@ -1,0 +1,5 @@
+INFO application started
+WARN configuration uses a default value
+INFO user session opened
+ERROR database connection failed
+ERROR retry limit reached
